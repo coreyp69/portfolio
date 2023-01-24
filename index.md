@@ -12,7 +12,7 @@ feature_rows:
     img_alt: "PANTHER line array element"
   - title: "Meyer software"
     excerpt: "System configuration and control"
-    url: "/docs/2.html"
+    url: "/docs/software"
     img_path: "software.gif"
     img_alt: "Monitoring with Compass RMS "
   

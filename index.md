@@ -7,12 +7,12 @@ has_toc: false
 feature_rows:
   - title: "Meyer loudspeakers"
     excerpt: "From stadium, to cinema, to studio"
-    url: "/docs/loudspeakers"
+    url: "/docs/loudspeakers/index"
     img_path: "p-hero.gif"
     img_alt: "PANTHER line array element"
   - title: "Meyer software"
     excerpt: "System configuration and control"
-    url: "/docs/software"
+    url: "/docs/software/index"
     img_path: "software.gif"
     img_alt: "Monitoring with Compass RMS "
   
